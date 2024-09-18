@@ -1,0 +1,32 @@
+body{
+    font-family: "Roboto Mono", system-ui;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color:white;
+    background-color: rgb(8, 5, 36) ;
+    height: 700px;
+    margin:0;
+
+ }
+
+ 
+button {
+    background-color: #db7a7a;
+    color: rgb(0, 0, 0);
+    font-family: "Roboto Mono", system-ui;
+}
+.passo{
+    display: none;
+    }
+    .passo.ativo {
+        display:block;
+    }
+ main{
+    text-align: center;
+    max-width: 90%;
+ }
+  img{
+
+max-width: 56%;
+  }
